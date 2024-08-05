@@ -8,4 +8,12 @@ tags: web
 
 ---
 
+Who am I?
+
+Hi, I'm Jonathan Rico, a dynamic front-end developer with a keen eye for user-centric design. With a solid foundation in frameworks like React, Redux, and Next.js, I bring over a decade of hands-on experience in the evolving landscape of web development.
+
+I've actively contributed to large-scale projects, leveraging a data-driven approach and collaborating with UX designers to architect optimal front-end solutions. Mentoring new developers is not just a task, it's a passion that fuels my commitment to continuous learning.
+
+Let's innovate together!
+
 [Just go to my website](https://nathanredblur.dev)
